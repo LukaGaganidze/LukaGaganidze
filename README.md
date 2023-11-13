@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hey there! I'm Luka Gaganidze, a Front-End Developer based in Tbilisi, Georgia.
 
-<!--
-**LukaGaganidze/LukaGaganidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile! 🚀
+I'm passionate about crafting Front-End solutions and love to work on both solo projects and collaborative team efforts. 
+Most of my projects are built with JavaScript frameworks like Angular and libraries like React.js and Next.js. I also have experience building projects with plain HTML, CSS, and JavaScript.  🌐💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Explore My Work
+Check out my personal projects, free to explore, contribute and provide feedback! 🤝
+
+## 🚀 Let's Collaborate!
+I'm always open to exciting collaborations and new opportunities. To connect, feel free to reach out via email at [lukagaganidzedev@gmail.com](mailto:lukagaganidzedev@gmail.com) or visit my portfolio website: [lukasportfolio.vercel.app](https://lukasportfolio.vercel.app). Let's create something awesome together! 🌟
+
